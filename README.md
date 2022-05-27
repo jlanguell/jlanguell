@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jacob Languell
-- 👀 I’m interested in software development & cybersecurity.
-- 🌱 I’m currently finishing my bachelor's in the above Major/Minor.
-- 💞️ I’m looking to collaborate on any really interesting Java/Python projects.
+- Hi, I’m Jacob Languell
+- I’m interested in software development & cybersecurity.
+- I’m currently finishing my bachelor's in the above Major/Minor.
+- I’m looking to collaborate on any really interesting Java/Python projects.
