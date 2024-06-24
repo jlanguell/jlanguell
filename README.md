@@ -1,3 +1,0 @@
-- Hi, I’m Jacob Languell
-- I’m interested in software development & cybersecurity.
-- I’m looking to collaborate on Java/Python projects.
